@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a0e4402bad53542b935225a72358f2, type: 3}
+  m_Name: MD_HydrogenGas
+  m_EditorClassIdentifier: Assembly-CSharp::MolecularLab.MoleculeData
+  moleculeName: HydrogenGas
+  formula: H2
+  bondType: 0
+  hydrogenCount: 2
+  oxygenCount: 0
+  carbonCount: 0
+  nitrogenCount: 0
+  moleculePrefab: {fileID: 228209259471943592, guid: 30e7ef7171a0077468bc125d97943f4d, type: 3}
+  moleculeIcon: {fileID: 0}
+  description: 

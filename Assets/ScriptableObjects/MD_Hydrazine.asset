@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a0e4402bad53542b935225a72358f2, type: 3}
+  m_Name: MD_Hydrazine
+  m_EditorClassIdentifier: Assembly-CSharp::MolecularLab.MoleculeData
+  moleculeName: Hydrazine
+  formula: N2H4
+  bondType: 0
+  hydrogenCount: 4
+  oxygenCount: 0
+  carbonCount: 0
+  nitrogenCount: 2
+  moleculePrefab: {fileID: 0}
+  moleculeIcon: {fileID: 0}
+  description: 

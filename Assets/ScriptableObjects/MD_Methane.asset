@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a0e4402bad53542b935225a72358f2, type: 3}
+  m_Name: MD_Methane
+  m_EditorClassIdentifier: Assembly-CSharp::MolecularLab.MoleculeData
+  moleculeName: MD_Methane
+  formula: CH4
+  bondType: 0
+  hydrogenCount: 4
+  oxygenCount: 0
+  carbonCount: 1
+  nitrogenCount: 0
+  moleculePrefab: {fileID: 8969727882628247226, guid: 84166bf1735edb54cb81322279835819, type: 3}
+  moleculeIcon: {fileID: 0}
+  description: 

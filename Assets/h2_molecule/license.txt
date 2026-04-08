@@ -1,0 +1,11 @@
+Model Information:
+* title:	H2 molecule
+* source:	https://sketchfab.com/3d-models/h2-molecule-07febb1097e5484c83e3371226aa1c63
+* author:	frmmg (https://sketchfab.com/frmmg2351)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "H2 molecule" (https://sketchfab.com/3d-models/h2-molecule-07febb1097e5484c83e3371226aa1c63) by frmmg (https://sketchfab.com/frmmg2351) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

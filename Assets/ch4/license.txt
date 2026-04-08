@@ -1,0 +1,11 @@
+Model Information:
+* title:	CH4
+* source:	https://sketchfab.com/3d-models/ch4-a1d0d95fb60c409ead7151f0c59935b2
+* author:	AD Medical Animation (https://sketchfab.com/ADMedicalAnimation)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CH4" (https://sketchfab.com/3d-models/ch4-a1d0d95fb60c409ead7151f0c59935b2) by AD Medical Animation (https://sketchfab.com/ADMedicalAnimation) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
